@@ -4,5 +4,7 @@ Samosa
 Poha
 Tea
 
+Pizza
+Pasta
 
 thank you-)
